@@ -1,40 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Saint-Jean-sur-Richelieu",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2025-03-04T15:03:52.915Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "45.30708537671658",
+        "lng": "-73.25019478797914"
       },
-      "id": 17806751
+      "id": 98443198
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Montreal",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2025-03-04T15:04:36.059Z",
+      "notes": "Vieux-Port",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "45.504226476962074",
+        "lng": "-73.55350971221925"
       },
-      "id": 98443197
+      "id": 98443199
+    },
+    {
+      "cityName": "Cholpon-Ata",
+      "country": "Kyrgyzstan",
+      "emoji": "🇰🇬",
+      "date": "2025-03-04T15:05:24.564Z",
+      "notes": "",
+      "position": {
+        "lat": "42.66123150298925",
+        "lng": "77.09381103515626"
+      },
+      "id": 98443200
     }
   ]
 }
